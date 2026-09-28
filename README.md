@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Rakib Hasan</h1>
-<h3 align="center">Web Developer</h3>
+<h1 align="left">Hi 👋, I'm Rakib Hasan</h1>
+<h3 align="left">Welcome to my page!</h3>
+<p align="left">Full-Stack Developer from Bangladesh 🇧🇩</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakibhasan-21&label=Profile%20views&color=0e75b6&style=flat" alt="rakibhasan-21" /> </p>
 
